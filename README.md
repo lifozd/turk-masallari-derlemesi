@@ -19,4 +19,4 @@ Web sayfasını açmak için `index.html` dosyasını bir internet tarayıcısı
 
 ## Sunum Videosu
 
-YouTube bağlantısı daha sonra eklenecektir.
+https://www.youtube.com/watch?v=xyk4kgPYPl0
