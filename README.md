@@ -13,6 +13,10 @@ HTML, CSS ve JavaScript kullanılarak geliştirilmiştir.
 - Yazı boyutunu büyütme ve küçültme
 - Mobil ekranlara uyumlu tasarım
 
+## Dijital Kitabı Görüntüle
+
+https://lifozd.github.io/turk-masallari-derlemesi/Turk-Masallari/
+
 ## Kullanım
 
 Web sayfasını açmak için `index.html` dosyasını bir internet tarayıcısında çalıştırın. Görsellerin görüntülenebilmesi için `gorseller` klasörü HTML dosyasıyla aynı konumda bulunmalıdır.
